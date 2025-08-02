@@ -125,7 +125,7 @@ export default function Home() {
           Hey, I'm Izzatillo 👋
         </h2>
         <h1 className="text-4xl font-bold sm:text-5xl md:text-6xl lg:text-7xl">
-          AI Portfolio
+          AI/ML Engineer
         </h1>
       </motion.div>
 
